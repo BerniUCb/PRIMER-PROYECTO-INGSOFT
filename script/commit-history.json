@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "d04c8ea5dad758e5ca271b9b217851cbd48c1168",
     "author": "BerniUCB",
     "commit": {
       "date": "2026-09-08T13:40:21.000Z",
       "message": "feat: agregar calculo del precio neto",
-      "url": "https://github.com/BerniUCb/PRIMER-PROYECTO-INGSOFT/commit/HEAD"
+      "url": "https://github.com/BerniUCb/PRIMER-PROYECTO-INGSOFT/commit/d04c8ea5dad758e5ca271b9b217851cbd48c1168"
     },
     "stats": {
       "total": 69,
@@ -17,5 +17,24 @@
     "test_count": 1,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "BerniUCB",
+    "commit": {
+      "date": "2026-09-08T13:44:10.000Z",
+      "message": "feat: agregar calculo del precio neto",
+      "url": "https://github.com/BerniUCb/PRIMER-PROYECTO-INGSOFT/commit/HEAD"
+    },
+    "stats": {
+      "total": 3,
+      "additions": 0,
+      "deletions": 3,
+      "date": "2026-09-08"
+    },
+    "coverage": 0,
+    "test_count": 1,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]
