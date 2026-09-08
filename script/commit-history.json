@@ -57,16 +57,35 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "57793feefc0c79a4d4462bdea03bcfb0818a1d4d",
     "author": "BerniUCB",
     "commit": {
       "date": "2026-09-08T13:51:58.000Z",
       "message": "feat: agregar calculo de impuestos por estado",
-      "url": "https://github.com/BerniUCb/PRIMER-PROYECTO-INGSOFT/commit/HEAD"
+      "url": "https://github.com/BerniUCb/PRIMER-PROYECTO-INGSOFT/commit/57793feefc0c79a4d4462bdea03bcfb0818a1d4d"
     },
     "stats": {
       "total": 11,
       "additions": 11,
+      "deletions": 0,
+      "date": "2026-09-08"
+    },
+    "coverage": 100,
+    "test_count": 4,
+    "failed_tests": 3,
+    "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "BerniUCB",
+    "commit": {
+      "date": "2026-09-08T13:52:48.000Z",
+      "message": "feat: agregar calculo de impuestos por estado",
+      "url": "https://github.com/BerniUCb/PRIMER-PROYECTO-INGSOFT/commit/HEAD"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
       "deletions": 0,
       "date": "2026-09-08"
     },

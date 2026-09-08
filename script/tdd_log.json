@@ -66,9 +66,29 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "bbcb2afb2ac3c3bb461393dc2a8a969d565a1f78",
     "commitName": "feat: agregar calculo de impuestos por estado",
     "commitTimestamp": 1788875519332,
     "testId": 3
+  },
+  {
+    "commitId": "57793feefc0c79a4d4462bdea03bcfb0818a1d4d",
+    "commitName": "feat: agregar calculo de impuestos por estado",
+    "commitTimestamp": 1788875556335,
+    "testId": 4
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 3,
+    "numTotalTests": 4,
+    "timestamp": 1788875562059,
+    "success": false,
+    "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: agregar calculo de impuestos por estado",
+    "commitTimestamp": 1788875569385,
+    "testId": 5
   }
 ]
