@@ -152,9 +152,39 @@
     "testId": 8
   },
   {
-    "commitId": "HEAD",
+    "commitId": "bbd87a0ebda3aea2eb5ef1dd1bde81fbd5509ed8",
     "commitName": "feat: agregar calculo de descuentos segun el monto",
     "commitTimestamp": 1788876178322,
     "testId": 8
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 1,
+    "numTotalTests": 9,
+    "timestamp": 1788877207677,
+    "success": false,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 1,
+    "numTotalTests": 9,
+    "timestamp": 1788877245098,
+    "success": false,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 0,
+    "numTotalTests": 9,
+    "timestamp": 1788877256644,
+    "success": true,
+    "testId": 9
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: agregar funcion para obtener estados permitidos",
+    "commitTimestamp": 1788877266634,
+    "testId": 9
   }
 ]

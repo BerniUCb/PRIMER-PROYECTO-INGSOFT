@@ -133,12 +133,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "bbd87a0ebda3aea2eb5ef1dd1bde81fbd5509ed8",
     "author": "BerniUCB",
     "commit": {
       "date": "2026-09-08T14:02:57.000Z",
       "message": "feat: agregar calculo de descuentos segun el monto",
-      "url": "https://github.com/BerniUCb/PRIMER-PROYECTO-INGSOFT/commit/HEAD"
+      "url": "https://github.com/BerniUCb/PRIMER-PROYECTO-INGSOFT/commit/bbd87a0ebda3aea2eb5ef1dd1bde81fbd5509ed8"
     },
     "stats": {
       "total": 18,
@@ -148,6 +148,25 @@
     },
     "coverage": 87.5,
     "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "BerniUCB",
+    "commit": {
+      "date": "2026-09-08T14:21:05.000Z",
+      "message": "feat: agregar funcion para obtener estados permitidos",
+      "url": "https://github.com/BerniUCb/PRIMER-PROYECTO-INGSOFT/commit/HEAD"
+    },
+    "stats": {
+      "total": 12,
+      "additions": 11,
+      "deletions": 1,
+      "date": "2026-09-08"
+    },
+    "coverage": 88.24,
+    "test_count": 9,
     "failed_tests": 0,
     "conclusion": "success"
   }

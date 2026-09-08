@@ -31,4 +31,7 @@ export function calcularDescuento(monto) {
   // Devolvemos de cuánto es el descuento en dinero, no solo el porcentaje
   return monto * (porcentaje / 100);
 }
+export function obtenerEstados() {
+  return ["UT", "NV", "TX", "AL", "CA"];
+}
 

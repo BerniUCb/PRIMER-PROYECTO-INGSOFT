@@ -1,4 +1,4 @@
-import { calcularPrecioNeto , calcularImpuesto , calcularDescuento } from "./totalizador.js";
+import { calcularPrecioNeto , calcularImpuesto , calcularDescuento , obtenerEstados } from "./totalizador.js";
 
 describe("Totalizador de compras", () => {
   it("debería calcular el precio neto multiplicando la cantidad por el precio unitario", () => {
@@ -33,5 +33,12 @@ describe("Totalizador de compras", () => {
   it("debería aplicar 15% de descuento para un monto de 30000", () => {
     // El 15% de 30000 es 4500
     expect(calcularDescuento(30000)).toEqual(4500); 
+  });
+  // TEST PARA LA LISTA DESPLEGABLE suponemos como quedaria el codigo en nuestro UI
+  it("debería devolver la lista de estados permitidos para la lista desplegable", () => {
+    // Los estados que definimos en las reglas
+    const estadosEsperados = ["UT", "NV", "TX", "AL", "CA"];
+    
+    expect(obtenerEstados()).toEqual(estadosEsperados);
   });
 });
