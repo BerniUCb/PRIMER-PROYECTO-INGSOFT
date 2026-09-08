@@ -38,9 +38,23 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "f95419cb8c498f3889bc0edeb80dc12b093b4d9a",
     "commitName": "feat: agregar calculo del precio neto",
     "commitTimestamp": 1788875050789,
     "testId": 1
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 0,
+    "numTotalTests": 1,
+    "timestamp": 1788875143509,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: agregar calculo del precio neto",
+    "commitTimestamp": 1788875152554,
+    "testId": 2
   }
 ]
