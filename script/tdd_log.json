@@ -124,9 +124,23 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "33da5779aeaca338767fb7328216cbc3c7d53ca0",
     "commitName": "feat: agregar calculo de impuestos por estado",
     "commitTimestamp": 1788875961451,
     "testId": 6
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 4,
+    "numTotalTests": 8,
+    "timestamp": 1788876096512,
+    "success": false,
+    "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: agregar calculo de descuentos segun el monto",
+    "commitTimestamp": 1788876144493,
+    "testId": 7
   }
 ]
