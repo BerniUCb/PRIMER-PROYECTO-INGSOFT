@@ -52,9 +52,23 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "ab42ec8ff49333923a3a78ca36a384ea7b55a29a",
     "commitName": "feat: agregar calculo del precio neto",
     "commitTimestamp": 1788875152554,
     "testId": 2
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 3,
+    "numTotalTests": 4,
+    "timestamp": 1788875475241,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: agregar calculo de impuestos por estado",
+    "commitTimestamp": 1788875519332,
+    "testId": 3
   }
 ]

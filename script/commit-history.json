@@ -38,12 +38,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "ab42ec8ff49333923a3a78ca36a384ea7b55a29a",
     "author": "BerniUCB",
     "commit": {
       "date": "2026-09-08T13:45:51.000Z",
       "message": "feat: agregar calculo del precio neto",
-      "url": "https://github.com/BerniUCb/PRIMER-PROYECTO-INGSOFT/commit/HEAD"
+      "url": "https://github.com/BerniUCb/PRIMER-PROYECTO-INGSOFT/commit/ab42ec8ff49333923a3a78ca36a384ea7b55a29a"
     },
     "stats": {
       "total": 3,
@@ -55,5 +55,24 @@
     "test_count": 1,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "BerniUCB",
+    "commit": {
+      "date": "2026-09-08T13:51:58.000Z",
+      "message": "feat: agregar calculo de impuestos por estado",
+      "url": "https://github.com/BerniUCb/PRIMER-PROYECTO-INGSOFT/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 11,
+      "deletions": 0,
+      "date": "2026-09-08"
+    },
+    "coverage": 100,
+    "test_count": 4,
+    "failed_tests": 3,
+    "conclusion": "failure"
   }
 ]
